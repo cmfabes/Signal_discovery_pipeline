@@ -1,6 +1,6 @@
 # Signal Discovery Analytics Pipeline
 
-This repository implements a production‑ready pipeline for discovering leading operational signals from time‑series data.  The goal is to ingest raw operational and market data (e.g. vessel port calls, queue lengths, inventories), compute robust anomaly scores, evaluate lead/lag relationships with market instruments, and produce actionable insights for executives and investors.
+This repository implements a production‑ready pipeline for discovering leading operational signals from time‑series data.  The goal is to ingest raw operational and market data ( vessel port calls, queue lengths, inventories), compute anomaly scores, evaluate lead/lag relationships with market instruments, and produce actionable insights for executives and investors.
 
 ## Overview
 
